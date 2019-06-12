@@ -1,0 +1,13 @@
+Règle générale:
+-Le freekill est interdit, même entre faction rivale (Donnez plutôt des avertissement avec des menace)
+-Le HRP n’est pas autorisé, merci de respecter l’univers
+-Les Enfants Maudit n’ont pas le droit de changer de PlayerModel
+-Les Enfants Maudit sont reconnaissable par tout le monde
+-Les Enfants Maudit n’ont pas le droit de rejoindre une faction sans avoir de binôme (Exemple: Promoteur)
+-Les Enfants Maudit n’ont pas le droit d’avoir une arme (Sauf Araignée et Dauphin)
+-Il est interdit d’être le tuteur de plusieur enfants maudits
+-Les Gastreas sont des créatures qui ont détruit l’humanité, inutile de dire que vous en avez PEUR.
+-Respectez le FearRP, tout le monde a peur de la mort, même si vous êtes un super soldat, une AK47 reste une AK47
+-Le Barman n’a aucunement le droit de quitter une base, contrairement au médecin qui lui peut aller sur le terrain
+-Il est interdit de procurer du Heal (Du soin), peu importe sa forme, pendant un combat (Valable pour le pouvoir de Soin de l’enfant maudit Dauphin)
+-Un Marchand d’arme est Freelance, il peut aller ou il le souhaite, mais n’oubliez pas que vendre des armes est son activité principale
